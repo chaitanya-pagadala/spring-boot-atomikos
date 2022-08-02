@@ -21,7 +21,7 @@ implements CommandLineRunner
 
 	@Override
 	public void run(String... args) throws Exception {
-		roasterService.addPlayer("allstars", "aaditya", 10);		
+		roasterService.addPlayer("allstars", "aadityaaa", 10);		
 	}
 
 }
